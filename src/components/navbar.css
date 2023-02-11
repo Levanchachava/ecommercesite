@@ -1,0 +1,16 @@
+.navbar-cont {
+    background-color: black;
+    padding: 20px;
+    padding-right: 70px;
+    display: flex;
+    justify-content: end;
+}
+
+.navbar-cont a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 20px;
+}
